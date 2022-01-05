@@ -34,7 +34,7 @@ Hi, Emma Donery, a Perceptive and logical software engineer (full-stack develope
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmahCodes254&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Blog posts
+## My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Twelve Factor App Methodology](https://dev.to/emma_donery/the-twelve-factor-app-methodology-2beo)
 - [MACHINE LEARNING WITH PYTHON: INTRODUCTION](https://dev.to/emma_donery/machine-learning-with-python-introduction-4e67)
