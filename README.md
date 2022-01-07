@@ -36,9 +36,9 @@ Hi, Emma Donery, a Perceptive and logical software engineer (full-stack develope
 
 ## My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Python Like a Pro in 2022: Getting Started](https://dev.to/emma_donery/learning-python-like-a-pro-in-2022-getting-started-28d)
 - [The Twelve Factor App Methodology](https://dev.to/emma_donery/the-twelve-factor-app-methodology-2beo)
 - [MACHINE LEARNING WITH PYTHON: INTRODUCTION](https://dev.to/emma_donery/machine-learning-with-python-introduction-4e67)
 - [Getting Started with Nodejs, Express and Docker](https://dev.to/emma_donery/getting-started-with-nodejs-express-and-docker-5ffa)
 - [Getting Started With Flask and Docker: Containerize your first flask application](https://dev.to/emma_donery/getting-started-with-flask-and-docker-containerize-your-first-flask-application-1f43)
-- [Python Flask App Routing](https://dev.to/emma_donery/python-flask-app-routing-3l57)
 <!-- BLOG-POST-LIST:END -->
