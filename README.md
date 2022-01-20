@@ -36,9 +36,9 @@ Hi, Emma Donery, a Perceptive and logical software engineer (full-stack develope
 
 ## My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MeiliSearch: Next generation search API](https://dev.to/emma_donery/meilisearch-next-generation-search-api-5g56)
 - [Amazon Machine Learning: Amazon SageMaker 🔥](https://dev.to/emma_donery/amazon-machine-learning-amazon-sagemaker-4ljj)
 - [Learning Python Like a Pro in 2022: Getting Started](https://dev.to/emma_donery/learning-python-like-a-pro-in-2022-getting-started-28d)
 - [The Twelve Factor App Methodology](https://dev.to/emma_donery/the-twelve-factor-app-methodology-2beo)
 - [MACHINE LEARNING WITH PYTHON: INTRODUCTION](https://dev.to/emma_donery/machine-learning-with-python-introduction-4e67)
-- [Getting Started with Nodejs, Express and Docker](https://dev.to/emma_donery/getting-started-with-nodejs-express-and-docker-5ffa)
 <!-- BLOG-POST-LIST:END -->
