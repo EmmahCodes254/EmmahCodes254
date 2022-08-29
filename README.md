@@ -4,7 +4,7 @@
 
 Hi, Emma Donery, a Perceptive and logical software engineer (full-stack developement), community manager, and machine learning enthusiast with proven ability to communicate with both technical team and end users  to identify and translate business requirements into usable and functional applications.
 
-- 🔭 I’m currently working on buildhing a strong portfolio
+- 🔭 I’m currently working on building a strong portfolio
 - 🌱 I’m currently learning ReactJs and Machine Learning
 - 👯 I’m looking to collaborate on full stack web development
 - 💬 Ask me about web design, web development and Machine learning
